@@ -1,0 +1,9 @@
+{
+    "name": "docker/php-nginx",
+    "description": "PHP & Nginx with Docker",
+    "require": {
+        "php": ">=7.4",
+        "react/child-process": "^0.6.2"
+    },
+    "scripts": {}
+}
